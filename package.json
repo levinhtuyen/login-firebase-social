@@ -7,7 +7,7 @@
     "serve": "vite preview",
     "prod": "vue-tsc --noEmit --skipLibCheck && vite build --mode production .npmrc",
     "stag": "vue-tsc --noEmit --skipLibCheck && vite build --mode staging",
-    "predeploy": "npm run build",
+    "predeploy": "vite build",
     "deploy": "demo -d build"
   },
   "dependencies": {
@@ -28,7 +28,7 @@
     "@types/tailwindcss": "^3.0.3",
     "@vitejs/plugin-vue": "^2.1.0",
     "autoprefixer": "10.4.5",
-    "gh-pages": "^4.0.0",
+    "demo": "^4.0.0",
     "postcss": "^8.4.12",
     "prettier": "^2.6.2",
     "sass": "^1.50.1",
