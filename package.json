@@ -8,7 +8,7 @@
     "prod": "vue-tsc --noEmit --skipLibCheck && vite build --mode production .npmrc",
     "stag": "vue-tsc --noEmit --skipLibCheck && vite build --mode staging",
     "predeploy": "vite build",
-    "deploy": "demo -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@types/node": "^17.0.36",
