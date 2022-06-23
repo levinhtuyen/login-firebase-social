@@ -1,6 +1,6 @@
 # ⚡ Vite + Vue 3 + Tailwind CSS ✔
 
-![Vite, Vue, Tailwind CSS](https://user-images.githubusercontent.com/11320080/111277027-a9384c00-8640-11eb-8323-21889bd7c609.png)
+![Vite - Vue3 - Typescript - Tailwind - Element UI Plus](https://user-images.githubusercontent.com/11320080/111277027-a9384c00-8640-11eb-8323-21889bd7c609.png)
 
 This starter template includes:
 
@@ -22,11 +22,10 @@ First-party plugins needed for Tailwind UI:
 
 ### Getting Started
 
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/web2033/vite-vue3-tailwind-starter)
 
 ```sh
-npx degit web2033/vite-vue3-tailwind-starter vvt-app
-cd vvt-app
+# npx degit web2033/vite-vue3-tailwind-starter vvt-app
+# cd vvt-app
 ```
 
 ```sh
