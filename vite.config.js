@@ -9,7 +9,7 @@ export default defineConfig({
       '@': resolve(__dirname, 'src'),
     },
   },
-  base: '/login-firebase-social/'
+  base: '/login-firebase-social/',
   server: {
     open: true,
   },
