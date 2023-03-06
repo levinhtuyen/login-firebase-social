@@ -436,10 +436,10 @@
     protobufjs "^6.11.3"
     yargs "^16.2.0"
 
-"@headlessui/vue@^1.4.3":
-  version "1.4.3"
-  resolved "https://registry.npmjs.org/@headlessui/vue/-/vue-1.4.3.tgz"
-  integrity sha512-cDAd3aP7jH5bO2WO4eSkyQQg0k6Zw8gobl+zL8LGApqix28EtlxultyKH/mVKnbo8Kiq6IDRzwP1HfKOf1QZbQ==
+"@headlessui/vue@^1.7.12":
+  version "1.7.12"
+  resolved "https://registry.yarnpkg.com/@headlessui/vue/-/vue-1.7.12.tgz#963b2eb2f548278c49f2d1e67f0a4a84f54078da"
+  integrity sha512-IV0k1I2I8Bj37HljFF231Y9cpldfiucf+inMCxA/VPoQT6UTxo0N/rb78CrogBxXNfsPxKmz3y/nlv+eRz6zvg==
 
 "@heroicons/vue@^1.0.5":
   version "1.0.5"
